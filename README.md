@@ -25,6 +25,7 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 
 ## Project Structure
 iyf-s10-week-03-yourusername/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │   └── styles.css └── images/
+
 ## What I Learned
 
 - How to create a responsive layout using Flexbox and CSS Grid  
@@ -40,9 +41,8 @@ iyf-s10-week-03-yourusername/ ├── index.html ├── about.html ├─�
 
 ## Contact
 
-- Email: cheryladhiambo@email.com  
-- LinkedIn: [Cheryl Adhiambo](https://linkedin.com/in/cheryladhiambo)  
-- GitHub: [@yourusername](https://github.com/yourusername)  
+- Email: adhiambocheryl@gmail.com   
+- GitHub: [@Brigid-maker](https://github.com/Brigid-maker)  
 
 ## License
 
