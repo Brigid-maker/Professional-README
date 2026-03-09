@@ -24,7 +24,14 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 - Git & GitHub  
 
 ## Project Structure
-iyf-s10-week-03-yourusername/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │   └── styles.css └── images/
+iyf-s10-week-03-Brigid-maker/ 
+├── index.html 
+├── about.html
+├── projects.html 
+├── contact.html 
+css/ │   
+└── styles.css 
+images/
 
 ## What I Learned
 
