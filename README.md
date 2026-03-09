@@ -4,7 +4,7 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 
 ## Live Demo
 
-[View Live Site](https://Brigid-maker.github.io/iyf-s10-week-03-yourusername)
+[View Live Site](https://Brigid-maker.github.io/iyf-s10-week-01--Brigid-maker.md)
 
 ## Screenshot
 
