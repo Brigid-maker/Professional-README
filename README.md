@@ -26,7 +26,7 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 ## Project Structure
 
 \`\`\`
-iyf-s10-week-03-yourusername/
+iyf-s10-week-03-Brigid-maker/
 ├── index.html
 ├── about.html
 ├── projects.html
