@@ -25,4 +25,25 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 
 ## Project Structure
 iyf-s10-week-03-yourusername/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │   └── styles.css └── images/
+## What I Learned
 
+- How to create a responsive layout using Flexbox and CSS Grid  
+- Structuring a multi-page website with semantic HTML  
+- Implementing accessibility best practices (like proper headings and labels)  
+- Using Git & GitHub to manage my project and deploy it live  
+
+## Future Improvements
+
+- [ ] Add JavaScript interactivity (e.g., animations, form validation)  
+- [ ] Implement dark mode for better user experience  
+- [ ] Add project filtering functionality on the Projects page  
+
+## Contact
+
+- Email: cheryladhiambo@email.com  
+- LinkedIn: [Cheryl Adhiambo](https://linkedin.com/in/cheryladhiambo)  
+- GitHub: [@yourusername](https://github.com/yourusername)  
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
