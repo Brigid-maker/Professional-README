@@ -24,12 +24,17 @@ This project is a multi-page portfolio website designed to showcase my work, ski
 - Git & GitHub  
 
 ## Project Structure
-daily-challenge-1/
-├── src/
-│   ├── index.html
-│   ├── css/style.css
-│   └── js/app.js
-└── README.md
+
+\`\`\`
+iyf-s10-week-03-yourusername/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── images/
+\`\`\`
 
 ## What I Learned
 
